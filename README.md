@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+React app to display a list of blog posts fetched from https://jsonplaceholder.typicode.com.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
